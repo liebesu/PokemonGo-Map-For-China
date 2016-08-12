@@ -1,3 +1,4 @@
+GONE!!
 支持google.cn
 修改：
 # PokemonGo Map![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)
